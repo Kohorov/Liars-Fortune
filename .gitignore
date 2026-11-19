@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db
+.venv/
+venv/
+# runtime logs contain user ids and messages
+logs/
+*.log
+# local editor/agent settings
+.claude/
